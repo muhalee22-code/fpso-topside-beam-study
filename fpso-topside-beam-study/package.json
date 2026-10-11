@@ -1,7 +1,0 @@
-{
-  "name": "topside-deck-studio",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": { "test": "node --test tests/*.test.mjs", "check": "node --check dist/beam.js && node --check dist/app.js" }
-}
